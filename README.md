@@ -11,6 +11,9 @@ This repository contains the details of our project aimed at developing a fully 
 - **Indoor Mapping**: Create maps of indoor environments using SLAM.
 - **Autonomous Navigation**: Navigate using prebuilt maps.
 - **Autonomous Docking**: Dock to a charging station automatically when the battery is low.
+![WhatsApp Image 2025-01-21 at 19 52 17_f7a8ca51](https://github.com/user-attachments/assets/cc4a9192-6470-4d3d-84e4-7961899cb208)
+
+
 
 ## Hardware and Software
 
@@ -55,6 +58,9 @@ Robot RI receivers and TOF sensors
 
 ![WhatsApp Image 2024-05-30 at 04 20 38_85da2a3c](https://github.com/user-attachments/assets/95d4628f-7d1b-4c52-8cc0-227b3604e631)
 
+[Testing Vidoes](https://drive.google.com/drive/folders/1FnOvAdR_lnR3mRf7FDLwACUVnO8ut433?usp=sharing)
 
----
+
+
+
 Feel free to contribute by opening issues or submitting pull requests!
