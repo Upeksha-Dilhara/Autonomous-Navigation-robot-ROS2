@@ -56,45 +56,5 @@ Robot RI receivers and TOF sensors
 ![WhatsApp Image 2024-05-30 at 04 20 38_85da2a3c](https://github.com/user-attachments/assets/95d4628f-7d1b-4c52-8cc0-227b3604e631)
 
 
-
-## Repository Structure
-```
-├── src/
-│   ├── robot_control
-│   ├── mapping_and_navigation
-│   ├── docking_system
-├── simulations/
-│   ├── gazebo_worlds
-│   ├── test_cases
-├── docs/
-│   ├── hardware_specs.md
-│   ├── software_packages.md
-├── README.md
-```
-
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo-url.git
-   cd your-repo-url
-   ```
-2. Install dependencies:
-   ```bash
-   sudo apt update && sudo apt install -y ros-humble-desktop
-   ```
-3. Launch the Gazebo simulation:
-   ```bash
-   ros2 launch simulations gazebo_world.launch.py
-   ```
-4. Run SLAM:
-   ```bash
-   ros2 launch slam_toolbox online_sync.launch.py
-   ```
-5. Start autonomous navigation:
-   ```bash
-   ros2 launch nav2_bringup navigation_launch.py
-   ```
-
-
 ---
 Feel free to contribute by opening issues or submitting pull requests!
