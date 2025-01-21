@@ -58,7 +58,7 @@ Robot RI receivers and TOF sensors
 
 ![WhatsApp Image 2024-05-30 at 04 20 38_85da2a3c](https://github.com/user-attachments/assets/95d4628f-7d1b-4c52-8cc0-227b3604e631)
 
-[Testing Vidoes](https://drive.google.com/drive/folders/1FnOvAdR_lnR3mRf7FDLwACUVnO8ut433?usp=sharing)
+[Testing Videos](https://drive.google.com/drive/folders/1FnOvAdR_lnR3mRf7FDLwACUVnO8ut433?usp=sharing)
 
 
 
